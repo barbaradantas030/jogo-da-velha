@@ -2,17 +2,22 @@
 ![Total de arquivos](https://img.shields.io/github/directory-file-count/barbaradantas030/JOGO-DA-VELHA?type=file&style=plastic)
 ![Licença](https://img.shields.io/github/license/barbaradantas030/altera-fundo?style=plastic)
 
-<p align="center">
-<img src="./assets.Jogo-da-velha3.gif" alt="Aplicação funcionando com 3" width="200px"></img>
-</p>
 
-
-# 🎮 Jogo da Velha Avançado
+# 🎮 Jogo da Velha Avançado ♟️
 
 ## 🤔 O que é este projeto 
 Este é um projeto interativo de Jogo da Velha desenvolvido com foco em HTML5, CSS3 e JaScript, como parte do curso de Formação Front-End.
 
 ## 💎 Demonstração 
+
+<table align="center">
+<tr>      
+<td align="center"><img src="./assets/gifs/Jogo-da-velha3.gif" alt="Aplicação funcionando com 3" width="203px"><br>Tabuleiro 3x3</img></td>
+<td align="center"><img src="./assets/gifs/Jogo-da-velha4.gif" alt="Aplicação funcionando com 4" width="200px"><br>Tabuleiro 4x4</img></td>
+<td align="center"><img src="./assets/gifs/Jogo-da-velha5.gif" alt="Aplicação funcionando com 5" width="210px"><br>Tabuleiro 5x5</img></td>
+<td align="center"><img src="./assets/gifs/Jogo-da-velha6.gif" alt="Aplicação funcionando com 6" width="195px"><br>Tabuleiro 6x6</img></td>
+</tr>
+</table>
 
 ## 💡 Sobre o projeto
 
